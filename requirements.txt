@@ -1,6 +1,11 @@
-pyrogram
-TgCrypto
+pyrogram==1.4.16
+tgcrypto<=1.2.3
+aiohttp<=3.8.1
+python-dotenv<=0.20.0
 motor
-https://github.com/Tinche/aiofiles/archive/master.zip
+aiofiles
 dnspython
+apscheduler
+requests
 psutil
+pyromod
